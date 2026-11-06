@@ -60,3 +60,4 @@ You can find it in Supabase Dashboard → Project Settings → API → `service_
 "# unionbiruk" 
 "# unionbiruk" 
 "# unionbiruk" 
+"# unionbiruk" 
